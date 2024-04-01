@@ -1,5 +1,5 @@
 {
-  "name": "colormanipulation",
+  "name": "colormanipulationix",
   "version": "1.0.0", 
   "description": "color Manipulation",
   "main": "./src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alevenko1/colorManipulation.git"
+    "url": "https://github.com/alevenko1/colormanipulationix.git"
   },
   "keywords": [
     "color", 
